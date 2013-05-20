@@ -10,11 +10,11 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+
+
    
-   Introduction/index  
-   Architecture/index  
-   Operations/index  
-   Appendices/index  
+   Introduction/index
+   Architecture/index
 
 Indices and tables
 ==================

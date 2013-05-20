@@ -11,12 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   Provisioning and Deploying
-   Cloud Controller Design
-   Scaling
-   Compute Nodes
-   Decisions for Storage
-   Network Design
-   Example Architecture
-   What Next
+   Cloud Controller Design 
+   Provisioning and Deploying 
+   
 

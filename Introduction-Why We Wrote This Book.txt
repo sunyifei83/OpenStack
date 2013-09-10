@@ -29,25 +29,25 @@ Tom Fifield - Tom曾在粒子物理学实验(如：欧洲强子对撞机ATLAS项
 Anne Gentle - Anne是OpenStack文档协调员，同时也同Open Street Maps小组一起工作。她作为个人志愿者参与了2011年Google Doc Summit。
 Anne曾经在FLOSS Manuals’ Adam Hyde的指导下使用Sprints的方式工作过。Anne居住在德克萨斯的奥斯丁市。
 
-Lorin Hochstein - Lorin本来是一位学者，现在已转变成一个软件开发/运维人员。目前他作为云服务首席架构师任职于Nimbis Services。在这家公司他使用OpenStack环境用于部署科学计算相关应用。他从很早的Cactus版就开始接触OpenStack。在就职于Nimbis Services之前，Lorin工作于南加州大学信息科学委员会(USCISI)，主要工作是OpenStack上扩展高性能计算。
+Lorin Hochstein - Lorin本来是一位学者，现在已转变成一个软件开发/运维人员。目前他作为云服务首席架构师任职于Nimbis Services。在这家公司他使用OpenStack环境用于部署科学计算相关应用。他从很早的Cactus版就开始接触OpenStack。在就职于Nimbis Services之前，Lorin工作于南加州大学信息科学委员会(USCISI)，主要工作是在OpenStack上扩展高性能计算。
 
 Adam Hyde - Adam指导了本书Book Sprint的编写方式。Adam是Book Sprint方法论的发明者也是该方法上最有经验的指导者。关于Book Sprint方法请参考http://www.booksprints.net/。Adam也是FLOSS Manuals的创始人。FLOSS Manuals是一个拥有3000名开发者的社区，该社区为免费软件提供免费编写的说明书。Adam还是Booktype项目的创始人和项目经理，Booktype是书籍撰写，编辑，出版(在线和印刷)的一个开源项目。
 
-Jonathan Proulx - Jonathan是麻省理工学员计算机科学和人工智能实验室的高级系统管理员。为了在研究项目中尽可能充分利用计算资源，他很早就开始使用OpenStack。为了更好的学习他开始参与OpenStack文档的贡献和校验工作。
+Jonathan Proulx - Jonathan是麻省理工学院计算机科学和人工智能实验室的高级系统管理员。为了在研究项目中尽可能充分利用计算资源，他很早就开始使用OpenStack。为了更好的学习，他开始参与OpenStack文档的贡献和校验工作。
 
-Everett Toews - Everett Toews就职于Rackspace，工作方向是使得OpenStack和Rackspace更易于使用。他具有多种角色，开发人员，OpenStack倡导者和运维人员。他开发web应用，在研讨会上教学，在全球不同地方发表演说也为大学，商业公司部署OpenStack的生产环境。
+Everett Toews - Everett Toews就职于Rackspace，工作方向是使得OpenStack和Rackspace更易于使用。他具有多种角色，开发人员，OpenStack倡导者和运维人员。他开发web应用，在研讨会上教学，在全球不同地方发表演说，也为大学和商业公司部署OpenStack的生产环境。
 
-Joe Topjian - 在Cybera Joe设计并部署了多个云系统。Cybera是加拿大亚伯达省一个非盈利组织提供基础架构以支持企业家和本地研究员。Joe在维护这些云系统的同时也累计了丰富的troubleshooting技巧。
+Joe Topjian - 在Cybera Joe设计并部署了多个云系统。Cybera是加拿大亚伯达省的一个非盈利组织，主要提供基础架构以支持企业家和本地研究人员。Joe在维护这些云系统的同时也积累了丰富的troubleshooting技巧。
 
-我们感谢所有Rackspace公司热情的员工。Emma Richards(Rackspace客户关系)照顾了我们的午餐订单，同时不介意大堆从墙上掉落带粘性的即时贴。Betsy Hagemeier(热情的总经理助理)帮我们安排了房间并安顿下来。Rackspace的称作“胜利者”的不动产小组响应超快。(译者：Rackspace还有个Real Estate Team，难道炒房的:)) Adam Powell(IT部)提供了每日必须的宽带，同时为屏幕不够的作者提供了额外的第二台显示器。封面设计师Chris Duncan将周五的一封询问邮件(什么时候能完成什么之类的询问)变成了周五的任务完成邮件，完成结果包括源文件和开源的字体。周三晚上我们同奥斯丁OpenStack Meetup group举行了一小时愉快聚会，感谢Rackspace员工 Katie Schmidt组织了这次聚会。没有你们的支持和鼓励，我们将无法完成本书。
+我们感谢所有Rackspace公司热情的员工。Emma Richards(Rackspace客户经理)付了我们的午餐账单，也毫不介意那从墙上掉落的一大堆粘粘的即时贴。Betsy Hagemeier(热情的总经理助理)帮我们安排了房间并安顿下来。Rackspace的代号“胜利者”的不动产小组响应超快。(译者：Rackspace还有个Real Estate Team，难道炒房的:)) Adam Powell(IT部)提供了每日必须的宽带资源，同时为屏幕不够的作者提供了额外的第二台显示器。封面设计师Chris Duncan将周五的一封询问邮件(什么时候能完成什么之类的询问)变成了周五的任务完成邮件，完成结果包括源文件和开源的字体。周三晚上我们同奥斯丁OpenStack Meetup group举行了一小时的愉快聚会，感谢Rackspace员工 Katie Schmidt组织了这次聚会。没有你们的支持和鼓励，我们将无法完成本书的写作。
 
-我们也得到了来自于欧洲核子研究组织(European Organisation for Nuclear Research, CERN)的帮助和支持。在我们重新审核本书前，Tim Bell提供了本书大纲的的反馈。Sébastien Han慷慨的贡献出他的blog。Oisin Feeley在我们发出帮助要求后立刻通过邮件给出了反馈，帮助我们做了一些修改。
+我们也得到了来自于欧洲核子研究组织(European Organisation for Nuclear Research, CERN)的帮助和支持。在我们重新审核本书前，Tim Bell提供了本书大纲的的一些反馈。Sébastien Han则慷慨的贡献出他的blog。Oisin Feeley在我们发出帮助要求后立刻通过邮件给出了反馈，帮助我们做了一些修改。
 
 你需要具备的知识
 
 我们假设你有Linux系统管理的经验并能管理多台Linux环境。具体来说，本书所使用的是Ubuntu的Linux发行版。我们也需要你有一些SQL数据库的经验，本书将涉及到安装和维护MySQL数据库，并需要运行部分SQL查询语句。我们还假设你熟悉虚拟化。
 
-你也需要有Linux环境配置网络部分的经验，OpenStack中最复杂的一部分就是网络的配置。你需要熟悉常用的概念如：DHCP，Linux bridges，VLANs和iptables。除此之外，你还需要能找到具有专业网络硬件经验的人有配置交换机，路由等设备，在OpenStack搭建过程中可能需要他们的参与协助。
+你也需要有在Linux平台下配置网络的相关经验，OpenStack中最复杂的一部分就是网络的配置。你需要熟悉的常用概念如：DHCP，Linux bridges，VLANs和iptables。除此之外，你还需要能找到具有专业网络硬件经验的人来配置交换机，路由等设备，在OpenStack搭建过程中可能需要他们的参与协助。
 
 (译者：提供以下相关人员信息，有的有照片哦
 本书作者
